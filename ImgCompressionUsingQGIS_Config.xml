@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  
+  <!-- 
+    Mention the path of the input directory, end with backslash, do not enclose in quotes 
+  -->
+  <InputJpegFilesDir>C:\Syed\P\CR\ImgCompressionUsingQGIS\ImgCompressionUsingQGIS\bin\Debug\Input Jpeg Files\</InputJpegFilesDir>
+
+  <!-- 
+    Mention the path of the output directory, end with backslash, do not enclose in quotes 
+  -->
+  <OutputCompressedFilesDir>C:\Syed\P\CR\ImgCompressionUsingQGIS\ImgCompressionUsingQGIS\bin\Debug\Output Compressed Jpeg Files\</OutputCompressedFilesDir>
+  
+  <!-- 
+    Mention the drive letter with an ending colon, do not enclose in quotes 
+  -->
+  <QGISDriveLetter>C:</QGISDriveLetter> 
+  
+  <!-- 
+    Begin with a backslash and excluding the drive letter, mention the path of the folder where QGIS is installed, 
+    do not enclose in quotes 
+  -->
+  <QGISPathExcludingDriveLetter>\Program Files\QGIS 3.22.15</QGISPathExcludingDriveLetter> 
+  
+  <!-- Other settings -->
+</config>
